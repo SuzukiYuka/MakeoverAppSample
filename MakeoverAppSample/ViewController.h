@@ -11,12 +11,14 @@
 @interface ViewController : UIViewController {
     
     NSString * imageNames[12];
+    NSMutableArray *imageArray;
+    
     int selectedNum;
     int pageNum;
     int maxPageNum;
     
-    NSMutableArray *imageViewArray;
-    
+    UIImageView*imageView;
+        
     IBOutlet UIButton *bt1;
     IBOutlet UIButton *bt2;
     IBOutlet UIButton *bt3;

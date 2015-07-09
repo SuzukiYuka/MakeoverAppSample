@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E2065D051B461BAA00784C7F /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065CF91B461BAA00784C7F /* 1.png */; };
+		E2065D061B461BAA00784C7F /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065CFA1B461BAA00784C7F /* 10.png */; };
+		E2065D071B461BAA00784C7F /* 11.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065CFB1B461BAA00784C7F /* 11.png */; };
+		E2065D081B461BAA00784C7F /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065CFC1B461BAA00784C7F /* 12.png */; };
+		E2065D091B461BAA00784C7F /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065CFD1B461BAA00784C7F /* 2.png */; };
+		E2065D0A1B461BAA00784C7F /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065CFE1B461BAA00784C7F /* 3.png */; };
+		E2065D0B1B461BAA00784C7F /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065CFF1B461BAA00784C7F /* 4.png */; };
+		E2065D0C1B461BAA00784C7F /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065D001B461BAA00784C7F /* 5.png */; };
+		E2065D0D1B461BAA00784C7F /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065D011B461BAA00784C7F /* 6.png */; };
+		E2065D0E1B461BAA00784C7F /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065D021B461BAA00784C7F /* 7.png */; };
+		E2065D0F1B461BAA00784C7F /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065D031B461BAA00784C7F /* 8.png */; };
+		E2065D101B461BAA00784C7F /* 9.png in Resources */ = {isa = PBXBuildFile; fileRef = E2065D041B461BAA00784C7F /* 9.png */; };
 		E29E3FAB1B310B5600A157CE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E29E3FAA1B310B5600A157CE /* main.m */; };
 		E29E3FAE1B310B5600A157CE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E29E3FAD1B310B5600A157CE /* AppDelegate.m */; };
 		E29E3FB11B310B5600A157CE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E29E3FB01B310B5600A157CE /* ViewController.m */; };
@@ -27,6 +39,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E2065CF91B461BAA00784C7F /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		E2065CFA1B461BAA00784C7F /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		E2065CFB1B461BAA00784C7F /* 11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 11.png; sourceTree = "<group>"; };
+		E2065CFC1B461BAA00784C7F /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.png; sourceTree = "<group>"; };
+		E2065CFD1B461BAA00784C7F /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		E2065CFE1B461BAA00784C7F /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		E2065CFF1B461BAA00784C7F /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		E2065D001B461BAA00784C7F /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		E2065D011B461BAA00784C7F /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		E2065D021B461BAA00784C7F /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		E2065D031B461BAA00784C7F /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		E2065D041B461BAA00784C7F /* 9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 9.png; sourceTree = "<group>"; };
 		E29E3FA51B310B5600A157CE /* MakeoverAppSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MakeoverAppSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E29E3FA91B310B5600A157CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E29E3FAA1B310B5600A157CE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -60,6 +84,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E2065CF81B461BAA00784C7F /* images */ = {
+			isa = PBXGroup;
+			children = (
+				E2065CF91B461BAA00784C7F /* 1.png */,
+				E2065CFA1B461BAA00784C7F /* 10.png */,
+				E2065CFB1B461BAA00784C7F /* 11.png */,
+				E2065CFC1B461BAA00784C7F /* 12.png */,
+				E2065CFD1B461BAA00784C7F /* 2.png */,
+				E2065CFE1B461BAA00784C7F /* 3.png */,
+				E2065CFF1B461BAA00784C7F /* 4.png */,
+				E2065D001B461BAA00784C7F /* 5.png */,
+				E2065D011B461BAA00784C7F /* 6.png */,
+				E2065D021B461BAA00784C7F /* 7.png */,
+				E2065D031B461BAA00784C7F /* 8.png */,
+				E2065D041B461BAA00784C7F /* 9.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
 		E29E3F9C1B310B5600A157CE = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +124,7 @@
 		E29E3FA71B310B5600A157CE /* MakeoverAppSample */ = {
 			isa = PBXGroup;
 			children = (
+				E2065CF81B461BAA00784C7F /* images */,
 				E29E3FAC1B310B5600A157CE /* AppDelegate.h */,
 				E29E3FAD1B310B5600A157CE /* AppDelegate.m */,
 				E29E3FAF1B310B5600A157CE /* ViewController.h */,
@@ -199,8 +243,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E2065D0C1B461BAA00784C7F /* 5.png in Resources */,
+				E2065D0E1B461BAA00784C7F /* 7.png in Resources */,
+				E2065D061B461BAA00784C7F /* 10.png in Resources */,
+				E2065D101B461BAA00784C7F /* 9.png in Resources */,
+				E2065D071B461BAA00784C7F /* 11.png in Resources */,
+				E2065D091B461BAA00784C7F /* 2.png in Resources */,
+				E2065D0A1B461BAA00784C7F /* 3.png in Resources */,
+				E2065D0F1B461BAA00784C7F /* 8.png in Resources */,
+				E2065D081B461BAA00784C7F /* 12.png in Resources */,
+				E2065D0D1B461BAA00784C7F /* 6.png in Resources */,
 				E29E3FB41B310B5600A157CE /* Main.storyboard in Resources */,
+				E2065D051B461BAA00784C7F /* 1.png in Resources */,
 				E29E3FB91B310B5600A157CE /* LaunchScreen.xib in Resources */,
+				E2065D0B1B461BAA00784C7F /* 4.png in Resources */,
 				E29E3FB61B310B5600A157CE /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -347,6 +403,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = MakeoverAppSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -357,6 +414,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = MakeoverAppSample/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -416,6 +474,7 @@
 				E29E3FCA1B310B5600A157CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E29E3FCB1B310B5600A157CE /* Build configuration list for PBXNativeTarget "MakeoverAppSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +483,7 @@
 				E29E3FCD1B310B5600A157CE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

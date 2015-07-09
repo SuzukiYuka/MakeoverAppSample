@@ -18,45 +18,63 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QfY-CK-30a">
                                 <rect key="frame" x="51" y="390" width="62" height="62"/>
-                                <color key="backgroundColor" red="0.69128371489999996" green="0.93199671959999997" blue="0.78456035469999996" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="1">
+                                <state key="normal" backgroundImage="1.png">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <state key="highlighted" backgroundImage="1.png"/>
+                                <connections>
+                                    <action selector="bt1pushed" destination="vXZ-lx-hvc" eventType="touchUpInside" id="cWl-e1-TEA"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="azC-wH-LiB">
                                 <rect key="frame" x="129" y="390" width="62" height="62"/>
-                                <color key="backgroundColor" red="0.69128371489999996" green="0.93199671959999997" blue="0.78456035469999996" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="2">
+                                <state key="normal" backgroundImage="2.png">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <state key="highlighted" backgroundImage="1.png"/>
+                                <connections>
+                                    <action selector="bt2pushed" destination="vXZ-lx-hvc" eventType="touchUpInside" id="LHT-pY-tzm"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Ui-qu-O0q">
                                 <rect key="frame" x="210" y="390" width="62" height="62"/>
-                                <color key="backgroundColor" red="0.69128371489999996" green="0.93199671959999997" blue="0.78456035469999996" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="3">
+                                <state key="normal" backgroundImage="3.png">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <state key="highlighted" backgroundImage="1.png"/>
+                                <connections>
+                                    <action selector="bt3pushed" destination="vXZ-lx-hvc" eventType="touchUpInside" id="kRI-oM-Q2Q"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ts2-zG-w1J">
                                 <rect key="frame" x="51" y="471" width="62" height="62"/>
-                                <color key="backgroundColor" red="0.69128371489999996" green="0.93199671959999997" blue="0.78456035469999996" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="4">
+                                <state key="normal" backgroundImage="4.png">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <state key="highlighted" backgroundImage="1.png"/>
+                                <connections>
+                                    <action selector="bt4pushed" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Zal-VW-qrk"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PAz-aO-vM6">
                                 <rect key="frame" x="131" y="471" width="62" height="62"/>
-                                <color key="backgroundColor" red="0.69128371489999996" green="0.93199671959999997" blue="0.78456035469999996" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="5">
+                                <state key="normal" backgroundImage="5.png">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <state key="highlighted" backgroundImage="1.png"/>
+                                <connections>
+                                    <action selector="bt5pushed" destination="vXZ-lx-hvc" eventType="touchUpInside" id="7DU-9i-JJt"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="q30-sP-1DF">
                                 <rect key="frame" x="210" y="471" width="62" height="62"/>
-                                <color key="backgroundColor" red="0.69128371489999996" green="0.93199671959999997" blue="0.78456035469999996" alpha="1" colorSpace="calibratedRGB"/>
-                                <state key="normal" title="6">
+                                <state key="normal" backgroundImage="6.png">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <state key="highlighted" backgroundImage="1.png"/>
+                                <connections>
+                                    <action selector="bt6pushed" destination="vXZ-lx-hvc" eventType="touchUpInside" id="LSU-Jf-vLL"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Ow-21-fAB">
                                 <rect key="frame" x="286" y="450" width="29" height="29"/>
@@ -64,6 +82,9 @@
                                     <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="right" destination="vXZ-lx-hvc" eventType="touchUpInside" id="4oP-aI-VUx"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EAT-Cd-hYt">
                                 <rect key="frame" x="6" y="450" width="29" height="29"/>
@@ -71,14 +92,54 @@
                                     <color key="titleColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="left" destination="vXZ-lx-hvc" eventType="touchUpInside" id="8w6-cL-A3a"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f9d-BH-S0m">
+                                <rect key="frame" x="6" y="20" width="67" height="34"/>
+                                <state key="normal" title="全削除">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="reset" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Phs-1x-XK7"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="L2M-BY-7HS">
+                                <rect key="frame" x="6" y="62" width="67" height="34"/>
+                                <state key="normal">
+                                    <string key="title" base64-UTF8="YES">
+CDHjgaTmiLvjgos
+</string>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="back" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Ess-OM-OWT"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+                    <connections>
+                        <outlet property="bt1" destination="QfY-CK-30a" id="Jg3-Vc-w7t"/>
+                        <outlet property="bt2" destination="azC-wH-LiB" id="b8b-wq-7tl"/>
+                        <outlet property="bt3" destination="0Ui-qu-O0q" id="0Co-D3-w5w"/>
+                        <outlet property="bt4" destination="ts2-zG-w1J" id="dud-ku-sXC"/>
+                        <outlet property="bt5" destination="PAz-aO-vM6" id="NVc-ND-Ud2"/>
+                        <outlet property="bt6" destination="q30-sP-1DF" id="tgm-mU-x2U"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
         </scene>
     </scenes>
+    <resources>
+        <image name="1.png" width="170" height="160"/>
+        <image name="2.png" width="174" height="176"/>
+        <image name="3.png" width="150" height="150"/>
+        <image name="4.png" width="174" height="162"/>
+        <image name="5.png" width="178" height="160"/>
+        <image name="6.png" width="170" height="152"/>
+    </resources>
 </document>
