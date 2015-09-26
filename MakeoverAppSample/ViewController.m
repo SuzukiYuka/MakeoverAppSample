@@ -103,8 +103,7 @@
         imageView.userInteractionEnabled = YES;
         imageView.center = CGPointMake(location.x, location.y);
         [imageArray addObject:imageView];
-        UITapGestureRecognizer *tap
-        = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(tapAction:)];
+        UITapGestureRecognizer *tap = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(tapAction:)];
         [imageView addGestureRecognizer:tap];
         [self.view addSubview:imageView];
     }
@@ -114,7 +113,6 @@
     UITouch *touch = [touches anyObject];
     CGPoint location = [touch locationInView:self.view];
     imageView.center = CGPointMake(location.x, location.y);
-
 }
 
 -(void)tapAction:(id)sender {
